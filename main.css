@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
 { text-align: center; }
 body {
     background-color: #9e2820;
+    font-family: 'Press Start 2P', system-ui;
 }
 { height: 100%; margin: 0; } body { display: flex; align-items: center; /* vertical centering / justify-content: center;/ horizontal centering / text-align: center; / center text inside elements / min-height: 100vh; / ensure full viewport height */ }
+
